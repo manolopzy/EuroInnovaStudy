@@ -36,7 +36,7 @@ public class NoughtAndCrossActivity extends AppCompatActivity {
     }
 
     public void onNext(View view) {
-        Intent intent = new Intent(this, NoughtAndCrossActivity.class);
+        Intent intent = new Intent(this, ActionbarActivity.class);
         startActivity(intent);
     }
 }

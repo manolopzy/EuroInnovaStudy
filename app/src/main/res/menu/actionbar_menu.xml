@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/action_find"
+        android:title="@string/action_find"
+        android:icon="@drawable/ic_outline_find_in_page_24"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom" />
+    <item android:id="@+id/action_new"
+        android:title="@string/action_new"
+        android:icon="@drawable/ic_outline_add_24"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom|withText"/>
+    <item android:id="@+id/action_options"
+        android:title="@string/action_options"
+        android:orderInCategory="100"
+        app:showAsAction="never"/>
+</menu>

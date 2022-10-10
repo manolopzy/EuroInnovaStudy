@@ -1,0 +1,11 @@
+tema theme
+action bar, also called app bar, by default por defecto
+es la barra de título y herramientas que aparece en la
+parte superior de la pantalla normalmente contiene
+botones de acción y un menú desplegable
+Necesitamos utilizar un tema (theme) para añadir un
+action bar a nuestras actividades o para ser más flexible
+y personalizable lo podemos sustituir con Toolbar explicítamente
+
+
+
