@@ -8,6 +8,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
 
 public class ActionbarActivity extends AppCompatActivity {
 
@@ -33,5 +34,10 @@ public class ActionbarActivity extends AppCompatActivity {
             default:
                 return super.onOptionsItemSelected(item);
         }
+    }
+
+    public void onNext(View view) {
+        Intent intent = new Intent(this, ToolbarActivity.class);
+        startActivity(intent);
     }
 }

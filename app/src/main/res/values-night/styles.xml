@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- The theme Theme.AppCompat.Light.DarkActionBar gives
+    your activity a light background with a dark app bar which is
+    given by default when you create a new project.
+    In order to use a more customized and flexible toolbar, we
+    need to change the theme to Theme.AppCompat.
+    Light.NoActionBar or Theme.AppCompat.NoActionBar instead.-->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+</resources>

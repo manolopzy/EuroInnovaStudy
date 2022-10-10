@@ -13,6 +13,11 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.EuroInnovaStudy"
         tools:targetApi="31">
+        <!-- the default app bar theme android:theme="@style/Theme.EuroInnovaStudy"-->
+        <!-- tool bar theme android:theme="@style/AppTheme"-->
+        <activity
+            android:name=".ToolbarActivity"
+            android:exported="false" />
         <activity
             android:name=".ActionbarActivity"
             android:exported="false" />

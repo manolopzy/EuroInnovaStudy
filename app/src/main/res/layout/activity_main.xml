@@ -6,6 +6,9 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
+    <!--<include layout="@layout/layout_toolbar"
+        android:id="@+id/main_toolbar"/>-->
+
     <com.example.euroinnovastudy.customviews.ExtendedEditText
         android:id="@+id/extendedEditText"
         android:layout_width="match_parent"

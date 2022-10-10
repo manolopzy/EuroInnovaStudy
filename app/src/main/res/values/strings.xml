@@ -6,4 +6,6 @@
     <string name="action_find">Find</string>
     <string name="action_new">New</string>
     <string name="action_options">Options</string>
+    <string name="tb_title">Title</string>
+    <string name="tb_subtitle">Subtitle</string>
 </resources>
