@@ -1,0 +1,10 @@
+A veces necesitamos funcionalidades de controles no presentes
+en los componentes estándar de Android, en este caso,
+podemos crear controles personalizados (custom views).
+Tenemos tres maneras de hacerlo:
+1 Extender las funcionalidades de un control ya existente
+extend the functions of an existing view
+2 Combinar varios controles para formar otro más conplejo
+3 Diseñar un nuevo control desde cero
+Design a totally new view
+
